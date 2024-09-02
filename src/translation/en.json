@@ -1,0 +1,59 @@
+{
+  "welcome": {
+    "name": "Welcome, I am Ulternae",
+    "description": "I have 1 year of experience as a <span>Frontend Web Developer</span> from Zipaquirá, Colombia, specializing in responsive designs with great attention to detail.",
+    "openForWork": "Open for Work"
+  },
+  "experience": {
+    "workExperience": "Work Experience",
+    "description": "Development of a series of applications in Retool to simplify problem resolution by technical support, fixing bugs in the main application, generating translations, creating pages based on designs provided by clients, and developing components for the evolution of the application using NextJS.",
+    "developed": "Frontend Developer",
+    "enterprise": "Gamefort Inc 2023"
+  },
+  "projects": {
+    "name": "Projects",
+    "preview": "Preview",
+    "design": "Design",
+    "code": "Code",
+    "back": "Backend",
+    "front": "Frontend",
+    "seeMore": "See more",
+    "seeLess": "See less",
+    "chat": {
+      "title": "KC Chat Real Time",
+      "content": "Free platform where you can register and have a unique profile to chat with friends, create groups, assign moderators, and connect with many people. Created from scratch with React, Tailwind CSS, Node, SQLite, and Turso."
+    },
+    "pomodoro": {
+      "title": "Pomodoro",
+      "content": "App designed to improve time management using the Pomodoro technique: 25 minutes of work followed by a break. Created with React and Tailwind; design provided by FrontendMentor."
+    },
+    "shopi": {
+      "title": "Shopi",
+      "content": "Ecommerce developed to simulate the real purchase flow of a store, featuring: purchase history, authentication, product retrieval, among other features. Created with React and Tailwind, using React Router for navigation."
+    },
+    "reactTodo": {
+      "title": "React Todo",
+      "content": "Application created to manage tasks where you can add, edit, and delete tasks, as well as create and customize your own profile. Created with React and CSS."
+    }
+  },
+  "aboutMe": {
+    "name": "About Me",
+    "description": "<div>I am Jhonatan David Castillo, nicknamed Ultisaer, self-taught and passionate about <span>Web Development</span>, design, and generative AI.</div><div>Some of my most important projects are <span>KC Chat Real Time</span>, created as a personal challenge to test my new skills and push them to the limit, including design, scalable and maintainable code, API management, frontend/backend connection, routes, loading states, translations, and much more.</div><div>One of my successes was working in a <span>startup</span>, which allowed me to gain a deeper understanding of my field, improve my knowledge, and discover the areas I need to improve and focus on.</div><div>I have also participated in globally significant events such as <span>PlatziCONF Mexico</span> and <span>PlatziCONF Bogotá</span>.</div>"
+  },
+  "languageCodes": {
+    "en": "en",
+    "es": "es",
+    "gl": "gl",
+    "ar": "ar"
+  },
+  "languages": {
+    "es": "Spanish",
+    "en": "English",
+    "ar": "Arabic",
+    "gl": "Galician"
+  },
+  "settings": {
+    "cv": "CV",
+    "seeCV": "See Curriculum Vitae"
+  }
+}

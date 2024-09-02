@@ -1,0 +1,59 @@
+{
+  "welcome": {
+    "name": "Benvido son Ulternae",
+    "description": "Teño 1 ano de experiencia como <span>Desenvolvedor Web Frontend</span> de Zipaquirá, Colombia, especializado en deseños responsivos con gran atención aos detalles.",
+    "openForWork": "Dispoñible para traballar"
+  },
+  "experience": {
+    "workExperience": "Experiencia Laboral",
+    "description": "Desenvolvemento dunha serie de aplicacións en Retool para simplificar a resolución de problemas por parte do soporte técnico, corrección de erros na aplicación principal, xeración de traducións, creación de páxinas baseadas en deseños proporcionados polos clientes e desenvolvemento de compoñentes para a evolución da aplicación utilizando NextJS.",
+    "developed": "Desenvolvedor Frontend",
+    "enterprise": "Gamefort Inc 2023"
+  },
+  "projects": {
+    "name": "Proxectos",
+    "preview": "Vista previa",
+    "design": "Deseño",
+    "code": "Código",
+    "back": "Backend",
+    "front": "Frontend",
+    "seeMore": "Ver máis",
+    "seeLess": "Ver menos",
+    "chat": {
+      "title": "KC Chat Real Time",
+      "content": "Plataforma gratuíta onde podes rexistrarte e ter un perfil único para chatear cos amigos, crear grupos, asignar moderadores e conectarte con moitas persoas. Creada desde cero con React, Tailwind CSS, Node, SQLite e Turso."
+    },
+    "pomodoro": {
+      "title": "Pomodoro",
+      "content": "Aplicación deseñada para mellorar a xestión do tempo utilizando a técnica pomodoro: 25 minutos de traballo seguidos dun descanso. Creada con React e Tailwind; deseño ofrecido por FrontendMentor."
+    },
+    "shopi": {
+      "title": "Shopi",
+      "content": "Ecommerce desenvolvido para simular o fluxo de compra real dunha tenda, conta con: historial de compras, autenticación, obtención de produtos, entre outras características. Creado con React e Tailwind, utilizando React Router para a navegación."
+    },
+    "reactTodo": {
+      "title": "React Todo",
+      "content": "Aplicación creada para xestionar tarefas onde podes engadir, editar e eliminar tarefas, así como crear e personalizar o teu propio perfil. Creado con React e CSS."
+    }
+  },
+  "aboutMe": {
+    "name": "Sobre min",
+    "description": "<div>Son Jhonatan David Castillo, alcumado Ultisaer, autodidacta e apaixonado polo <span>Desenvolvemento Web</span>, o deseño e a intelixencia artificial xerativa.</div><div>Algúns dos meus proxectos máis importantes son <span>KC Chat en Tempo Real</span>, realizado como un desafío persoal para probar as miñas novas habilidades e levalas ao límite, habilidades como deseño, código escalable e mantible, xestión de API, conexión frontend/backend, rutas, estados de carga, traducións e moito máis.</div><div>Un dos meus logros foi traballar nunha <span>startup</span>, o que me permitiu entender máis sobre o meu campo, mellorar os meus coñecementos e descubrir en que áreas debería mellorar e en cales enfocarme.</div><div>Tamén participei en eventos de importancia global como <span>PlatziCONF México</span> e <span>PlatziCONF Bogotá</span>.</div>"
+  },
+  "languageCodes": {
+    "en": "en",
+    "es": "es",
+    "gl": "gl",
+    "ar": "ar"
+  },
+  "languages": {
+    "es": "Español",
+    "en": "Inglés",
+    "ar": "Árabe",
+    "gl": "Galego"
+  },
+  "settings": {
+    "cv": "CV",
+    "seeCV": "Ver Currículum Vitae"
+  }
+}
