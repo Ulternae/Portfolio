@@ -9,7 +9,7 @@ const NAVIGATE = {
     "https://www.linkedin.com/in/jhonatan-david-castillo-castillo-85a21a27b/",
   github: "https://github.com/Ulternae",
   whatsapp: "https://wa.me/3045473510",
-  portfolio: "https://portfolio-ulternae.s3.sa-east-1.amazonaws.com/CV_Jhonatan_David_Castillo_Castillo_Desarrollador_Web"
+  portfolio: "https://portfolio-ulternae.s3.sa-east-1.amazonaws.com/CV_Jhonatan_David_Castillo_Castillo_Frontend_Developer"
 };
 
 const TECH = {
