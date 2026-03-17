@@ -7,7 +7,7 @@ const Experience = ({ className }) => {
 
   return (
     <div className={className}>
-      <div className="flex flex-col gap-0">
+      <div className="flex flex-col gap-8 sm:gap-0">
 
         <div className="sm:col-span-2 flex gap-6 items-center mb-8">
 
@@ -22,9 +22,9 @@ const Experience = ({ className }) => {
               <div className="flex gap-2">
                 <div className="relative w-10">
                   <div className="mx-auto rounded-lg h-full w-2 bg-lt2-200 dark:bg-eur-500" />
-                  <div className="absolute top-[70px] left-[10px] w-5 h-5 rounded-full bg-lt2-100 dark:bg-eur-100" />
+                  <div className="absolute top-[30px] sm:top-[70px] left-[10px] w-5 h-5 rounded-full bg-lt2-100 dark:bg-eur-100" />
                 </div>
-                <div className="pt-[60px] flex flex-col 1">
+                <div className="pt-[20px] sm:pt-[60px] flex flex-col 1">
                   <h1 className="text-eur-100 dark:text-lt2-100 font-medium text-2xl leading-none">{t(`experience.${year}.developed`)}</h1>
                   <h3 className="text-eur-100 dark:text-lt2-100 font-medium text-lg">{t(`experience.${year}.enterprise`)}</h3>
                 </div>
