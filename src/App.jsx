@@ -80,7 +80,7 @@ const App = () => {
               setLanguage={setLanguage}
             />
             <Welcome className="ml-3 sm:ml-auto w-full h-full max-w-[1000px] rounded-l-lg bg-lt2-600 dark:bg-eur-700 px-6 sm:px-12 py-8 lg:py-16 grid grid-cols-[2fr_1fr] sm:grid-cols-3 gap-y-8 gap-x-2 md:gap-x-16 lg:gap-y-4 rtl:space-x-reverse" />
-            <Experience className="-ml-3 sm:-ml-0 sm:mr-auto w-full h-full max-w-[1000px] rounded-r-lg bg-lt2-600 dark:bg-eur-700 px-6 sm:px-12 py-8 lg:py-16 rtl:space-x-reverse grid sm:grid-cols-[2fr_3fr] gap-y-6" />
+            <Experience className="-ml-3 sm:-ml-0 sm:mr-auto w-full h-full max-w-[1000px] rounded-r-lg bg-lt2-600 dark:bg-eur-700 px-6 sm:px-12 py-8 lg:py-16 rtl:space-x-reverse gap-y-6" />
             <Projects className="ml-3 sm:ml-auto w-full h-full max-w-[1000px] rounded-l-lg bg-lt2-600 dark:bg-eur-700 px-6 sm:px-12 py-8 lg:py-16 flex flex-col gap-16 " />
             <AboutMe className="-ml-3 sm:-ml-0 sm:mr-auto w-full h-full max-w-[1000px] rounded-r-lg bg-lt2-600 dark:bg-eur-700 px-6 sm:px-12 py-8 lg:py-16 rtl:space-x-reverse grid gap-16" />
           </>

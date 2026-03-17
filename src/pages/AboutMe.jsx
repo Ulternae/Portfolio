@@ -12,15 +12,15 @@ const AboutMe = ({ className }) => {
           {t("aboutMe.name")}
         </h1>
       </div>
-        <div className="grid gap-4 max-sm:pl-3 text-pretty text-lg font-medium text-lt2-200 dark:text-eur-200">
-          <Trans
-            i18nKey="aboutMe.description"
-            components={{
-              span: <span className="text-lt2-100 dark:text-eur-100" />,
-              div: <div />,
-            }}
-          />
-        </div>
+      <div className="grid gap-4 max-sm:pl-3 text-pretty text-lg font-medium text-lt2-200 dark:text-eur-200">
+        <Trans
+          i18nKey="aboutMe.description"
+          components={{
+            span: <span className="text-lt2-100 dark:text-eur-100" />,
+            div: <div />,
+          }}
+        />
+      </div>
     </div>
   );
 };
