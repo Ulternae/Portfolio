@@ -45,7 +45,7 @@
   },
   "aboutMe": {
     "name": "Sobre mí",
-    "description": "<div>Soy Jhonatan David Castillo, desarrollador frontend autodidacta con experiencia construyendo productos web modernos, seguros y escalables.</div><div>Trabajo principalmente con <span>Next.js, React, TypeScript, Redux, Zustand y Tailwind</span>, y complemento mi stack con Node/Express, bases de datos SQL, autenticación segura y pagos con Stripe.</div><div>Me interesa crear experiencias claras para el usuario, con arquitectura mantenible y foco en resultados. También aplico <span>IA generativa y Prompt Engineering</span> para acelerar procesos de desarrollo y diseño.</div><div>Actualmente busco proyectos donde pueda aportar visión de producto, ejecución técnica y evolución continua del frontend.</div>"
+    "description": "<div>Soy Jhonatan David Castillo conocido como Ulternae, desarrollador frontend autodidacta con experiencia construyendo productos web modernos, seguros y escalables.</div><div>Trabajo principalmente con <span>Next.js, React, TypeScript, Redux, Zustand y Tailwind</span>, y complemento mi stack con Node/Express, bases de datos SQL, autenticación segura y pagos con Stripe.</div><div>Me interesa crear experiencias claras para el usuario, con arquitectura mantenible y foco en resultados. También aplico <span>IA generativa y Prompt Engineering</span> para acelerar procesos de desarrollo y diseño.</div><div>Actualmente busco proyectos donde pueda aportar visión de producto, ejecución técnica y evolución continua del frontend.</div>"
   },
   "languageCodes": {
     "en": "en",

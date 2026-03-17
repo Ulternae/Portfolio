@@ -1,14 +1,21 @@
 {
   "welcome": {
     "name": "Benvido son Ulternae",
-    "description": "Teño 1 ano de experiencia como <span>Desenvolvedor Web Frontend</span> de Zipaquirá, Colombia, especializado en deseños responsivos con gran atención aos detalles.",
+    "description": "Teño 2 anos de experiencia como <span>Desenvolvedor Web Frontend</span> de Zipaquirá, Colombia, especializado en deseños responsivos con gran atención aos detalles.",
     "openForWork": "Dispoñible para traballar"
   },
   "experience": {
     "workExperience": "Experiencia Laboral",
-    "description": "Desenvolvemento dunha serie de aplicacións en Retool para simplificar a resolución de problemas por parte do soporte técnico, corrección de erros na aplicación principal, xeración de traducións, creación de páxinas baseadas en deseños proporcionados polos clientes e desenvolvemento de compoñentes para a evolución da aplicación utilizando NextJS.",
-    "developed": "Desenvolvedor Frontend",
-    "enterprise": "Gamefort Inc 2023"
+    "2023": {
+      "description": "Desenvolvemento dunha serie de aplicacións en Retool para simplificar a resolución de problemas por parte do soporte técnico, corrección de erros na aplicación principal, xeración de traducións, creación de páxinas baseadas en deseños proporcionados polos clientes e desenvolvemento de compoñentes para a evolución da aplicación utilizando NextJS.",
+      "developed": "Desenvolvedor Frontend",
+      "enterprise": "Gamefort Inc 2023"
+    },
+    "2025": {
+      "description": "Participei no desenvolvemento dun editor de modelos para a xeración de informes personalizados, implementei sistemas avanzados de filtrado de datos e desenvolvín un centro de tarefas similar a ferramentas como ClickUp. Ademais, asumín un rol de liderado técnico na construción dun MVP para unha plataforma SaaS CRM enfocada no sector da construción.",
+      "developed": "Desenvolvedor Frontend",
+      "enterprise": "Novadeha"
+    }
   },
   "projects": {
     "name": "Proxectos",
@@ -38,7 +45,7 @@
   },
   "aboutMe": {
     "name": "Sobre min",
-    "description": "<div>Son Jhonatan David Castillo, alcumado Ultisaer, autodidacta e apaixonado polo <span>Desenvolvemento Web</span>, o deseño e a intelixencia artificial xerativa.</div><div>Algúns dos meus proxectos máis importantes son <span>KC Chat en Tempo Real</span>, realizado como un desafío persoal para probar as miñas novas habilidades e levalas ao límite, habilidades como deseño, código escalable e mantible, xestión de API, conexión frontend/backend, rutas, estados de carga, traducións e moito máis.</div><div>Un dos meus logros foi traballar nunha <span>startup</span>, o que me permitiu entender máis sobre o meu campo, mellorar os meus coñecementos e descubrir en que áreas debería mellorar e en cales enfocarme.</div><div>Tamén participei en eventos de importancia global como <span>PlatziCONF México</span> e <span>PlatziCONF Bogotá</span>.</div>"
+    "description": "<div>Son Jhonatan David Castillo, coñecido como Ulternae, desenvolvedor frontend autodidacta con experiencia construíndo produtos web modernos, seguros e escalables.</div><div>Traballo principalmente con <span>Next.js, React, TypeScript, Redux, Zustand e Tailwind</span>, e complemento o meu stack con Node/Express, bases de datos SQL, autenticación segura e pagos con Stripe.</div><div>Interésame crear experiencias claras para o usuario, cunha arquitectura mantible e foco nos resultados. Tamén aplico <span>IA xerativa e Prompt Engineering</span> para acelerar os procesos de desenvolvemento e deseño.</div><div>Actualmente busco proxectos onde poida aportar visión de produto, execución técnica e evolución continua do frontend.</div>"
   },
   "languageCodes": {
     "en": "en",
