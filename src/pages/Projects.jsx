@@ -1,5 +1,6 @@
 import { useTranslation } from "react-i18next";
 import { Code } from "../assets/Code";
+import { ProyectZIcons } from "../components/Projects/ZIcons";
 import { ProyectChat } from "../components/Projects/Chat";
 import { ProyectPomodoro } from "../components/Projects/Pomodoro";
 import { useState } from "react";
@@ -22,12 +23,13 @@ const Projects = ({ className }) => {
         </h1>
       </div>
       <div className="grid gap-32">
-        <ProyectChat />
-        <ProyectPomodoro changeDirection={true} />
+        <ProyectZIcons />
+        <ProyectChat changeDirection={true} />
         {showMore && (
           <>
-            <ProyectShopi />
-            <ProyectReactTodo changeDirection={true} />
+            <ProyectPomodoro />
+            <ProyectShopi changeDirection={true} />
+            <ProyectReactTodo />
           </>
         )}
         <div className="group flex justify-center gap-3 items-center">

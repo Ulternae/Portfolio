@@ -19,6 +19,8 @@ const TECH = {
   SQLITE: "SQLite",
   TURSO: "Turso",
   CSS: "CSS",
+  TYPESCRIPT: "TypeScript",
+  NEXTJS: "Next.js",
 };
 
 const THEME = {
@@ -27,12 +29,19 @@ const THEME = {
 }
 
 const IMG_PROJECTS = {
+  ZICONS: "https://portfolio-ulternae.s3.sa-east-1.amazonaws.com/ZIcon.png",
   KCCHAT: "https://portfolio-ulternae.s3.sa-east-1.amazonaws.com/Chat.png",
   POMODORO:
     "https://portfolio-ulternae.s3.sa-east-1.amazonaws.com/Pomodoro.png",
   REACTTODO:
     "https://portfolio-ulternae.s3.sa-east-1.amazonaws.com/ReactTodo.png",
   SHOPI: "https://portfolio-ulternae.s3.sa-east-1.amazonaws.com/Shopi.png",
+};
+
+const ZICONS_LINKS = {
+  FIGMA:
+    "https://www.figma.com/design/8DTYKdzFvgMHEUFj5C1YGB/ZICONS?node-id=0-1&t=eh4W9O3sH3BQcNBl-1",
+  PAGE: "https://icons.zcorvus.com",
 };
 
 const KC_CHAT_LINKS = {
@@ -79,6 +88,7 @@ export {
   NETWORK,
   TECH,
   IMG_PROJECTS,
+  ZICONS_LINKS,
   KC_CHAT_LINKS,
   POMODORO_LINKS,
   REACTTODO_LINKS,

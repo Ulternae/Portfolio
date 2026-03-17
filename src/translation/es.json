@@ -26,6 +26,10 @@
     "front": "Frontend",
     "seeMore": "Ver más",
     "seeLess": "Ver menos",
+    "zicons": {
+      "title": "ZIcons",
+      "content": "Plataforma creada para demostrar conocimientos a profundidad en autenticación (2FA, códigos de recuperación), métodos de pago con Stripe y visualización y copia de iconos tanto de pago como gratuitos. Creada con Next.js, TypeScript, Tailwind, SQLite y Turso."
+    },
     "chat": {
       "title": "KC Chat en Tiempo Real",
       "content": "Plataforma gratuita donde puedes registrarte y tener un perfil único para chatear con amigos, crear grupos, asignar moderadores y conectarte con muchas personas. Creada desde cero con React, Tailwind CSS, Node, SQLite y Turso."
